@@ -1,4 +1,4 @@
-# Hi there, I'm Taimoor Ali 👋
+# Hi, I'm Taimoor Ali 👋
 
 I am a Full-Stack Developer and Computer Science student specializing in building highly secure, scalable backend architectures, automated cloud infrastructure, and AI-driven platforms. I thrive at the intersection of high-performance logic, DevOps automation, and information security.
 
@@ -20,7 +20,6 @@ I am a Full-Stack Developer and Computer Science student specializing in buildin
 
 #### ⚙️ Backend & Frameworks
 ![.Net](https://img.shields.io/badge/.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
@@ -31,16 +30,13 @@ I am a Full-Stack Developer and Computer Science student specializing in buildin
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+#### 🔒 Security & Penetration Testing
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-DE272D?style=for-the-badge&logo=owasp&logoColor=white)
+
 #### 🤖 AI & LLMOps
 ![LLM](https://img.shields.io/badge/LLM_&_AI_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMOps](https://img.shields.io/badge/LLMOps_Automation-32CD32?style=for-the-badge&logo=probot&logoColor=white)
 
 ---
 
-### 📊 Core Competency & Skill Levels
-
-```text
-Backend Engineering (.NET Web API, Python) █████████████████████████ 95%
-DevOps & Cloud Automation (Docker, AWS)    ██████████████████████░░░ 88%
-AI & Chatbot Architectures (LLMs)          ████████████████████░░░░░ 80%
-Frontend Implementation (React, JS)        ████████████████░░░░░░░░░ 65%

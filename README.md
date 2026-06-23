@@ -1,4 +1,4 @@
-# Hi there, I'm Taimoor Ali 👋 
+# Hi there, I'm Taimoor Ali 👋
 
 I am a Full-Stack Developer and Computer Science student specializing in building highly secure, scalable backend architectures, automated cloud infrastructure, and AI-driven platforms. I thrive at the intersection of high-performance logic, DevOps automation, and information security.
 
@@ -12,33 +12,38 @@ I am a Full-Stack Developer and Computer Science student specializing in buildin
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Core Systems** | `C# (.NET Web API)` • `C++ (High-Performance DLLs)` • `Python (FastAPI / Flask / Django)` |
-| **DevOps & Cloud** | `Docker & Docker Compose` • `Terraform (Infrastructure as Code)` • `AWS (EC2, VPC, IAM)` |
-| **Databases & Storage** | `Microsoft SQL Server` • `PostgreSQL` • `MongoDB (Motor Async)` |
-| **Security & Operations** | `Cryptography (RSA / JWT)` • `Network Auditing (Nmap)` • `Linux Systems` |
+#### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### ⚙️ Backend & Frameworks
+![.Net](https://img.shields.io/badge/.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### ☁️ Tools, DevOps & Cloud Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### 🤖 AI & LLMOps
+![LLM](https://img.shields.io/badge/LLM_&_AI_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps_Automation-32CD32?style=for-the-badge&logo=probot&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Core Competency & Skill Levels
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaimoorAli09&show_icons=true&theme=tokyonight&count_private=true" alt="Taimoor's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaimoorAli09&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
----
-
-### ⚡ Fun Facts & Philosophy
-*   🏋️‍♂️ When I'm not optimizing code or managing container networks, you'll find me hitting heavy compound lifts at the gym.
-*   🏏 Die-hard international cricket fan.
-*   💡 **Core Principle:** Always build using standard, decoupled Web APIs—never rely on monolithic, tightly coupled web wrappers when performance and security are on the line.
-
----
-
-### 📫 How to Reach Me
-*   **GitHub:** [github.com/TaimoorAli09](https://github.com/TaimoorAli09)
-*   *Feel free to open an issue or drop a pull request if you want to collaborate on high-performance backend engines or cloud automation tools!*
+```text
+Backend Engineering (.NET Web API, Python) █████████████████████████ 95%
+DevOps & Cloud Automation (Docker, AWS)    ██████████████████████░░░ 88%
+AI & Chatbot Architectures (LLMs)          ████████████████████░░░░░ 80%
+Frontend Implementation (React, JS)        ████████████████░░░░░░░░░ 65%
